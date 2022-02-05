@@ -1,0 +1,6 @@
+Project_Name         = "LogMonitor"
+VPC_CIDR             = "193.168.24.0/24"
+Public_AZ1           = "ap-southeast-1a"
+PublicSubnet_CIDR1   = "193.168.24.0/25"
+Container_Definition = "./container.json"
+Email                = "example@gmail.com"
